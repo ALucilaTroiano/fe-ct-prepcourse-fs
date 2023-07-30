@@ -125,19 +125,6 @@ function estaEnRango(num) {
    
   
 
-  
- 
-
-
-
-
-
-
-
-
-   
-
-
 function esEntero(num) {
    // Retornar true si "num" es un entero, ya sea positivo, negativo o cero.
    // Ejemplo: 0.8   ---> false
@@ -178,18 +165,6 @@ function fizzBuzz(num) {
 
 
 
-
-
-
-
-
-
-
- 
-
-   
-
- 
 
 
 
