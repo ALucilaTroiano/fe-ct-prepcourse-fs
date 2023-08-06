@@ -137,7 +137,9 @@ function sumarLikesDeUsuario(objetoUsuario) {
 }
 
 function agregarMetodoCalculoDescuento(objetoProducto) {
-   
+   // Agrega una propiedad al "objetoProducto" con el nombre "calcularPrecioDescuento".
+   // Esta propiedad debe ser una función que multiplique el precio del producto por el "porcentajeDeDescuento".
+   // El "objetoProducto" posee una propiedad "precio" y una propiedad "porcentajeDeDescuento".
    // Retornar el precio final.
    // Ejemplo:
    // Precio ---> 10
